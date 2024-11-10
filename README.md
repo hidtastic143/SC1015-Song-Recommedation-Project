@@ -6,7 +6,7 @@ This is the repository containing the work done by Team 6 for SC1015 Miniproject
 
 # Contributors
 
-1. Gim Long - Data Extraction, Cleaning & Visualisation, Exploratory Data Analysis, Machine Learning + Prediction (Song Recommendation based on a song input), Presentation Slides, Presentation Video
+1. Gim Long @dino1996 - Data Extraction, Cleaning & Visualisation, Exploratory Data Analysis, Machine Learning + Prediction (Song Recommendation based on a song input), Presentation Slides, Presentation Video
 
 2. Nurhidayat - Machine Learning + Prediction (Song recommendation based on a playlist), Presentation Slides, Presentation Video
 
